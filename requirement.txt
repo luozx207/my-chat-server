@@ -1,0 +1,5 @@
+eventlet==0.24.1
+Flask==1.0.2
+Flask-SocketIO==3.0.2
+mysql-connector-python==8.0.12
+redis==2.10.6
